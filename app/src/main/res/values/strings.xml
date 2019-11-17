@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HitShapes</string>
+    <string name="add_high_score">Add High Score</string>
+    <string name="save_score">Save High Score</string>
 </resources>
